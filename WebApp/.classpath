@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_91">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/WildFly 10.0 Runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/antlr-runtime.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/drools-compiler.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/drools-core.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/drools-decisiontables.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/drools-jsr94.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/drools-templates.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jbpm-bpmn2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jbpm-flow-builder.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jbpm-flow.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jsr94.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/junit.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/kie-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/kie-internal.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mvel2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.eclipse.jdt.core_3.11.2.v20160128-0629.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/poi-ooxml.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/poi.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/protobuf-java.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/xmlpull.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/xpp3_min.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/xstream.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/TestDrools.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
